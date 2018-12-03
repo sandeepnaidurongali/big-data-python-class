@@ -1,0 +1,1004 @@
+resp,link,title
+<200 http://www.nba.com/scores>,/scores,Scores
+<200 http://www.nba.com/scores>,http://stats.nba.com/schedule/,Schedule
+<200 http://www.nba.com/scores>,/news,News
+<200 http://www.nba.com/scores>,/video,Video
+<200 http://www.nba.com/scores>,/nbatv,NBA TV
+<200 http://www.nba.com/scores>,/standings,Standings
+<200 http://www.nba.com/scores>,http://stats.nba.com/,Stats
+<200 http://www.nba.com/scores>,/players,Players
+<200 http://www.nba.com/scores>,/teams,Teams
+<200 http://www.nba.com/scores>,http://global.nba.com/store-link-handler/,Store
+<200 http://www.nba.com/scores>,http://global.nba.com/store-link-handler/?cat=nba_jerseys,Jerseys
+<200 http://www.nba.com/scores>,http://global.nba.com/store-link-handler/?cat=nba_mens,Men
+<200 http://www.nba.com/scores>,http://global.nba.com/store-link-handler/?cat=nba_womens,Women
+<200 http://www.nba.com/scores>,http://global.nba.com/store-link-handler/?cat=nba_kids,Kids 
+<200 http://www.nba.com/scores>,http://global.nba.com/store-link-handler/?cat=nba_customshop,Custom Shop
+<200 http://www.nba.com/scores>,http://global.nba.com/store-link-handler/?cat=nba_classics,Hardwood Classics
+<200 http://www.nba.com/scores>,http://global.nba.com/store-link-handler/?cat=nba_headwear,Hats 
+<200 http://www.nba.com/scores>,http://global.nba.com/store-link-handler/?cat=nba_footwear,Footwear 
+<200 http://www.nba.com/scores>,http://auctions.nba.com/?utm_source=NBA.com%20Web&utm_medium=Site%20Link&utm_campaign=NBA.com%20Web%20Clicks,Auctions 
+<200 http://www.nba.com/scores>,http://nbagameworn.com/?utm_source=NBA.com%20Web&utm_medium=Website%20link&utm_campaign=NBA.com%20Web%20Link,NBA Game Worn
+<200 http://www.nba.com/scores>,http://nbanyc.fanatics.com/,NYC Store
+<200 http://www.nba.com/scores>,https://photostore.nba.com/,NBA Photo Store
+<200 http://www.nba.com/scores>,//nbatickets.nba.com,Tickets
+<200 http://www.nba.com/scores>,/leaguepass,NBA League Pass
+<200 http://www.nba.com/scores>,,Account Details
+<200 http://www.nba.com/scores>,//leaguepasssupport.nba.com,Help
+<200 http://www.nba.com/scores>,,Sign Out of NBA.com
+<200 http://www.nba.com/scores>,/leaguepass,BUY NBA LEAGUE PASS
+<200 http://www.nba.com/scores>,/vr,NBA VR
+<200 http://www.nba.com/scores>,http://stats.nba.com/schedule/#!/?rfr=nba,Full Schedule
+<200 http://www.nba.com/scores>,/key-dates,Key Dates
+<200 http://www.nba.com/scores>,http://www.nba.com,NBA Events
+<200 http://www.nba.com/scores>,/freeagents,2018 Free Agency
+<200 http://www.nba.com/scores>,/halloffame,2018 Hall of Fame
+<200 http://www.nba.com/scores>,/summerleague,2018 Summer League
+<200 http://www.nba.com/scores>,/nbaawards/2018/finalists,2018 NBA Awards
+<200 http://www.nba.com/scores>,/draft,2018 NBA Draft
+<200 http://www.nba.com/scores>,http://www.nba.com/playoffs/,2018 NBA Playoffs
+<200 http://www.nba.com/scores>,/allstar,2018 All-Star Game
+<200 http://www.nba.com/scores>,/fantasy,Fantasy
+<200 http://www.nba.com/scores>,http://www.nba.com/fantasy,Fantasy Home
+<200 http://www.nba.com/scores>,https://picks.nba.com/team-win-totals,NBA Pick 'Em
+<200 http://www.nba.com/scores>,/inplay,NBA InPlay
+<200 http://www.nba.com/scores>,http://www.nba.com/history,NBA History
+<200 http://www.nba.com/scores>,http://wnba.com/,WNBA
+<200 http://www.nba.com/scores>,http://www.nba.com/dleague/?ls=iref%3Anba%3Agfooter,NBA G League
+<200 http://www.nba.com/scores>,https://2kleague.nba.com/,NBA 2K League 
+<200 http://www.nba.com/scores>,http://cares.nba.com/,NBA Cares
+<200 http://www.nba.com/scores>,http://jr.nba.com/,Jr. NBA
+<200 http://www.nba.com/scores>,https://nbaacademy.nba.com/,NBA Academy
+<200 http://www.nba.com/scores>,http://pr.nba.com/,NBA Communications
+<200 http://www.nba.com/scores>,http://official.nba.com/,NBA Official
+<200 http://www.nba.com/scores>,/news/officiating,Officiating News
+<200 http://www.nba.com/scores>,http://official.nba.com/referee-assignments/,Daily Ref Assignments
+<200 http://www.nba.com/news>,/scores,Scores
+<200 http://www.nba.com/news>,http://stats.nba.com/schedule/,Schedule
+<200 http://www.nba.com/news>,/news,News
+<200 http://www.nba.com/news>,/video,Video
+<200 http://www.nba.com/news>,/nbatv,NBA TV
+<200 http://www.nba.com/news>,/standings,Standings
+<200 http://www.nba.com/scores>,http://official.nba.com/replay/,Replay Center
+<200 http://www.nba.com/scores>,http://videorulebook.nba.com/,Video Rulebook
+<200 http://www.nba.com/scores>,,NBA Initiatives
+<200 http://www.nba.com/scores>,https://thisiswhyweplay.nba.com/,This Is Why We Play
+<200 http://www.nba.com/scores>,http://voices.nba.com/,NBA Voices
+<200 http://www.nba.com/scores>,http://green.nba.com/,NBA Green
+<200 http://www.nba.com/scores>,http://fit.nba.com/,NBA Fit
+<200 http://www.nba.com/news>,http://stats.nba.com/,Stats
+<200 http://www.nba.com/news>,/players,Players
+<200 http://www.nba.com/news>,/teams,Teams
+<200 http://www.nba.com/news>,http://global.nba.com/store-link-handler/,Store
+<200 http://www.nba.com/news>,http://global.nba.com/store-link-handler/?cat=nba_jerseys,Jerseys
+<200 http://www.nba.com/news>,http://global.nba.com/store-link-handler/?cat=nba_mens,Men
+<200 http://www.nba.com/news>,http://global.nba.com/store-link-handler/?cat=nba_womens,Women
+<200 http://www.nba.com/scores>,http://hoopsfortroops.nba.com/,Hoops For Troops
+<200 http://www.nba.com/scores>,http://www.nba.com/enebea/index.html,Ene-be-a
+<200 http://www.nba.com/scores>,,NBA Info
+<200 http://www.nba.com/scores>,/news/about,About The NBA
+<200 http://www.nba.com/scores>,/news/faq,NBA FAQs
+<200 http://www.nba.com/scores>,http://stats.nba.com/transactions/,Transactions
+<200 http://www.nba.com/news>,http://global.nba.com/store-link-handler/?cat=nba_kids,Kids 
+<200 http://www.nba.com/news>,http://global.nba.com/store-link-handler/?cat=nba_customshop,Custom Shop
+<200 http://www.nba.com/news>,http://global.nba.com/store-link-handler/?cat=nba_classics,Hardwood Classics
+<200 http://www.nba.com/news>,http://global.nba.com/store-link-handler/?cat=nba_headwear,Hats 
+<200 http://www.nba.com/news>,http://global.nba.com/store-link-handler/?cat=nba_footwear,Footwear 
+<200 http://www.nba.com/news>,http://auctions.nba.com/?utm_source=NBA.com%20Web&utm_medium=Site%20Link&utm_campaign=NBA.com%20Web%20Clicks,Auctions 
+<200 http://www.nba.com/scores>,http://careers.nba.com/,Careers
+<200 http://www.nba.com/scores>,http://contact.nba.com/,Contact Us
+<200 http://www.nba.com/scores>,http://www.nba.com/history,NBA History
+<200 http://www.nba.com/scores>,/news/nba-register-and-nba-guide,NBA Guide & Register
+<200 http://www.nba.com/scores>,http://auctions.nba.com/?utm_campaign=NBA.com%20Mobile%20Clicks&utm_medium=Site%20Link&utm_source=NBA.com%20Responsive,Auctions
+<200 http://www.nba.com/scores>,https://photostore.nba.com/,NBA Photostore
+<200 http://www.nba.com/news>,http://nbagameworn.com/?utm_source=NBA.com%20Web&utm_medium=Website%20link&utm_campaign=NBA.com%20Web%20Link,NBA Game Worn
+<200 http://www.nba.com/news>,http://nbanyc.fanatics.com/,NYC Store
+<200 http://www.nba.com/news>,https://photostore.nba.com/,NBA Photo Store
+<200 http://www.nba.com/news>,//nbatickets.nba.com,Tickets
+<200 http://www.nba.com/news>,/leaguepass,NBA League Pass
+<200 http://www.nba.com/news>,,Account Details
+<200 http://www.nba.com/scores>,http://nbanyc.fanatics.com/,NYC Store
+<200 http://www.nba.com/scores>,https://globalstores.nba.com/,Global Stores
+<200 http://www.nba.com/news>,//leaguepasssupport.nba.com,Help
+<200 http://www.nba.com/news>,,Sign Out of NBA.com
+<200 http://www.nba.com/news>,/leaguepass,BUY NBA LEAGUE PASS
+<200 http://www.nba.com/news>,/vr,NBA VR
+<200 http://www.nba.com/news>,http://stats.nba.com/schedule/#!/?rfr=nba,Full Schedule
+<200 http://www.nba.com/news>,/key-dates,Key Dates
+<200 http://www.nba.com/news>,http://www.nba.com,NBA Events
+<200 http://www.nba.com/news>,/freeagents,2018 Free Agency
+<200 http://www.nba.com/news>,/halloffame,2018 Hall of Fame
+<200 http://www.nba.com/news>,/summerleague,2018 Summer League
+<200 http://www.nba.com/news>,/nbaawards/2018/finalists,2018 NBA Awards
+<200 http://www.nba.com/news>,/draft,2018 NBA Draft
+<200 http://www.nba.com/news>,http://www.nba.com/playoffs/,2018 NBA Playoffs
+<200 http://www.nba.com/news>,/allstar,2018 All-Star Game
+<200 http://www.nba.com/news>,/fantasy,Fantasy
+<200 http://www.nba.com/news>,http://www.nba.com/fantasy,Fantasy Home
+<200 http://www.nba.com/news>,https://picks.nba.com/team-win-totals,NBA Pick 'Em
+<200 http://www.nba.com/news>,/inplay,NBA InPlay
+<200 http://www.nba.com/news>,http://www.nba.com/history,NBA History
+<200 http://www.nba.com/news>,http://wnba.com/,WNBA
+<200 http://www.nba.com/news>,http://www.nba.com/dleague/?ls=iref%3Anba%3Agfooter,NBA G League
+<200 http://www.nba.com/news>,https://2kleague.nba.com/,NBA 2K League 
+<200 http://www.nba.com/news>,http://cares.nba.com/,NBA Cares
+<200 http://www.nba.com/news>,http://jr.nba.com/,Jr. NBA
+<200 http://www.nba.com/news>,https://nbaacademy.nba.com/,NBA Academy
+<200 http://www.nba.com/news>,http://pr.nba.com/,NBA Communications
+<200 http://www.nba.com/news>,http://official.nba.com/,NBA Official
+<200 http://www.nba.com/news>,/news/officiating,Officiating News
+<200 http://www.nba.com/news>,http://official.nba.com/referee-assignments/,Daily Ref Assignments
+<200 http://www.nba.com/news>,http://official.nba.com/replay/,Replay Center
+<200 http://www.nba.com/news>,http://videorulebook.nba.com/,Video Rulebook
+<200 http://www.nba.com/news>,,NBA Initiatives
+<200 http://www.nba.com/news>,https://thisiswhyweplay.nba.com/,This Is Why We Play
+<200 http://www.nba.com/news>,http://voices.nba.com/,NBA Voices
+<200 http://www.nba.com/news>,http://green.nba.com/,NBA Green
+<200 http://www.nba.com/news>,http://fit.nba.com/,NBA Fit
+<200 http://www.nba.com/news>,http://hoopsfortroops.nba.com/,Hoops For Troops
+<200 http://www.nba.com/news>,http://www.nba.com/enebea/index.html,Ene-be-a
+<200 http://www.nba.com/news>,,NBA Info
+<200 http://www.nba.com/news>,/news/about,About The NBA
+<200 http://www.nba.com/news>,/news/faq,NBA FAQs
+<200 http://www.nba.com/news>,http://stats.nba.com/transactions/,Transactions
+<200 http://www.nba.com/news>,http://careers.nba.com/,Careers
+<200 http://www.nba.com/news>,http://contact.nba.com/,Contact Us
+<200 http://www.nba.com/news>,http://www.nba.com/history,NBA History
+<200 http://www.nba.com/news>,/news/nba-register-and-nba-guide,NBA Guide & Register
+<200 http://www.nba.com/news>,http://auctions.nba.com/?utm_campaign=NBA.com%20Mobile%20Clicks&utm_medium=Site%20Link&utm_source=NBA.com%20Responsive,Auctions
+<200 http://www.nba.com/news>,https://photostore.nba.com/,NBA Photostore
+<200 http://www.nba.com/news>,http://nbanyc.fanatics.com/,NYC Store
+<200 http://www.nba.com/news>,https://globalstores.nba.com/,Global Stores
+<200 http://www.nba.com/news>,http://www.nba.com/news,NBA News
+<200 http://www.nba.com/news>,/,Topics
+<200 http://www.nba.com/news>,/preview,2018-19 Season Preview
+<200 http://www.nba.com/news>,/blogtable,Blogtable
+<200 http://www.nba.com/news>,/david-aldridge,DA's Morning Tip
+<200 http://www.nba.com/news>,/fantasy,Fantasy
+<200 http://www.nba.com/news>,/freeagents,Free Agent Tracker
+<200 http://www.nba.com/news>,/around-the-league,Around The League
+<200 http://www.nba.com/news>,/history,NBA History
+<200 http://www.nba.com/news>,/podcast,Podcast
+<200 http://www.nba.com/news>,/powerrankings,Power Rankings
+<200 http://www.nba.com/news>,/fool,Shaqtin' A Fool
+<200 http://www.nba.com/news>,/history,NBA History
+<200 http://www.nba.com/news>,/,Events
+<200 http://www.nba.com/news>,/halloffame,2018 Hall of Fame
+<200 http://www.nba.com/news>,/summerleague,2018 Summer League
+<200 http://www.nba.com/news>,/NBAawards,2018 NBA Awards
+<200 http://www.nba.com/news>,/draft,2018 NBA Draft
+<200 http://www.nba.com/news>,/playoffs,2018 NBA Playoffs
+<200 http://www.nba.com/news>,/allstar,2018 All-Star Game
+<200 http://www.nba.com/news>,/writer/archive,Writer Archive
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/,Profile
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/traditional/,Traditional
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/advanced/,Advanced
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/misc/,Misc
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/scoring/,Scoring
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/usage/,Usage
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/shooting/,Shooting
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/career/,Career
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/boxscores/,Box Scores
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/boxscores-traditional/,Advanced Box Scores Traditional
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/boxscores-advanced/,Advanced Box Scores Advanced
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/boxscores-misc/,Advanced Box Scores Misc
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/boxscores-scoring/,Advanced Box Scores Scoring
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/boxscores-usage/,Advanced Box Scores Usage
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/shots-dash/,Shots Dashboard
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/rebounds-dash/,Rebounds Dashboard
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/passes-dash/,Passes Dashboard
+<200 https://stats.nba.com/schedule/>,/player/{{ player.id }}/defense-dash/,Defense Dashboard
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/,Profile
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/traditional/,Traditional
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/advanced/,Advanced
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/four-factors/,Four Factors
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/misc/,Misc
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/scoring/,Scoring
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/opponent/,Opponent
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/shooting/,Shooting
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/lineups-traditional/,Lineups Traditional
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/lineups-advanced/,Lineups Advanced
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/lineups-four-factors/,Lineups Four Factors
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/lineups-misc/,Lineups Misc
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/lineups-scoring/,Lineups Scoring
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/lineups-opponent/,Lineups Opponent
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/players-traditional/,Players Traditional
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/players-advanced/,Players Advanced
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/players-misc/,Players Misc
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/players-scoring/,Players Scoring
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/players-usage/,Players Usage
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/onoffcourt-traditional/,On/Off Court Traditional
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/onoffcourt-advanced/,On/Off Court Advanced
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/onoffcourt-four-factors/,On/Off Court Four Factors
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/onoffcourt-misc/,On/Off Court Misc
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/onoffcourt-scoring/,On/Off Court Scoring
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/onoffcourt-opponent/,On/Off Court Opponent
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/onoffcourt-summary/,On/Off Court Summary
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/shots-dash/,Shots Dashboard
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/rebounds-dash/,Rebounds Dashboard
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/passes-dash/,Passes Dashboard
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/boxscores/,Box Scores
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/boxscores-traditional/,Advanced Box Scores Traditional
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/boxscores-advanced/,Advanced Box Scores Advanced
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/boxscores-four-factors/,Advanced Box Scores Four Factors
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/boxscores-misc/,Advanced Box Scores Misc
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/boxscores-scoring/,Advanced Box Scores Scoring
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/seasons/,Seasons
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/yearoveryear/,Year Over Year
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/franchise-leaders/,Franchise Leaders
+<200 https://stats.nba.com/schedule/>,/team/{{ team.id }}/historic-roster/,Historic Roster
+<200 https://stats.nba.com/schedule/>,/vs/,Traditional
+<200 https://stats.nba.com/schedule/>,/vs/advanced/,Advanced
+<200 https://stats.nba.com/schedule/>,/vs/misc/,Misc
+<200 https://stats.nba.com/schedule/>,/vs/scoring/,Scoring
+<200 https://stats.nba.com/schedule/>,/vs/four-factors/,Four Factors
+<200 https://stats.nba.com/schedule/>,/vs/opponent/,Opponent
+<200 https://stats.nba.com/schedule/>,/game/{{ game.id }}/,Box Score
+<200 https://stats.nba.com/schedule/>,/game/{{ game.id }}/advanced/,Advanced
+<200 https://stats.nba.com/schedule/>,/game/{{ game.id }}/misc/,Misc
+<200 https://stats.nba.com/schedule/>,/game/{{ game.id }}/scoring/,Scoring
+<200 https://stats.nba.com/schedule/>,/game/{{ game.id }}/usage/,Usage
+<200 https://stats.nba.com/schedule/>,/game/{{ game.id }}/four-factors/,Four Factors
+<200 https://stats.nba.com/schedule/>,/game/{{ game.id }}/tracking/,Player Tracking
+<200 https://stats.nba.com/schedule/>,/game/{{ game.id }}/playbyplay/,Play By Play
+<200 https://stats.nba.com/schedule/>,/game/{{ game.id }}/shotchart/,Shotchart
+<200 https://stats.nba.com/schedule/>,/game/{{ game.id }}/charts/,Game Charts
+<200 https://stats.nba.com/schedule/>,/game/{{ game.id }}/hustle/,Hustle
+<200 https://stats.nba.com/schedule/>,/fantasycompare/,Traditional
+<200 https://stats.nba.com/schedule/>,/fantasycompare/advanced/,Advanced
+<200 https://stats.nba.com/schedule/>,/fantasycompare/misc/,Misc
+<200 https://stats.nba.com/schedule/>,/fantasycompare/scoring/,Scoring
+<200 https://stats.nba.com/schedule/>,/impact/{{ impact }},Traditional
+<200 https://stats.nba.com/schedule/>,/impact/advanced/{{ impact }},Advanced
+<200 https://stats.nba.com/schedule/>,/impact/misc/{{ impact }},Misc
+<200 https://stats.nba.com/schedule/>,/impact/scoring/{{ impact }},Scoring
+<200 https://stats.nba.com/schedule/>,/impact/four-factors/{{ impact }},Four Factors
+<200 https://stats.nba.com/schedule/>,/impact/defense/{{ impact }},Defense
+<200 https://stats.nba.com/schedule/>,/players/,Players Home
+<200 https://stats.nba.com/schedule/>,/players/list/,Player Index
+<200 https://stats.nba.com/schedule/>,/players/traditional/,Traditional Stats
+<200 https://stats.nba.com/schedule/>,/leaders/,Regular Season Leaders
+<200 https://stats.nba.com/schedule/>,/players/hustle-leaders/,Hustle Leaders
+<200 https://stats.nba.com/schedule/>,/players/advanced-leaders/,Advanced Leaders
+<200 https://stats.nba.com/schedule/>,/alltime/,All Time Leaders
+<200 https://stats.nba.com/schedule/>,,General 
+<200 https://stats.nba.com/schedule/>,/players/traditional/,Traditional
+<200 https://stats.nba.com/schedule/>,/players/advanced/,Advanced
+<200 https://stats.nba.com/schedule/>,/players/misc/,Misc
+<200 https://stats.nba.com/schedule/>,/players/scoring/,Scoring
+<200 https://stats.nba.com/schedule/>,/players/usage/,Usage
+<200 https://stats.nba.com/schedule/>,/players/opponent/,Opponent
+<200 https://stats.nba.com/schedule/>,/players/defense/,Defense
+<200 https://stats.nba.com/schedule/>,,Clutch 
+<200 https://stats.nba.com/schedule/>,/players/clutch-traditional/,Clutch Traditional
+<200 https://stats.nba.com/schedule/>,/players/clutch-advanced/,Clutch Advanced
+<200 https://stats.nba.com/schedule/>,/players/clutch-misc/,Clutch Misc
+<200 https://stats.nba.com/schedule/>,/players/clutch-scoring/,Clutch Scoring
+<200 https://stats.nba.com/schedule/>,/players/clutch-usage/,Clutch Usage
+<200 https://stats.nba.com/schedule/>,,Defense 
+<200 https://stats.nba.com/schedule/>,/players/defense/,Defense Overall
+<200 https://stats.nba.com/schedule/>,/players/defense-dash-overall/,Defending Shots Overall
+<200 https://stats.nba.com/schedule/>,/players/defense-dash-3pt/,Defending 3 Pointers
+<200 https://stats.nba.com/schedule/>,/players/defense-dash-2pt/,Defending 2 Pointers
+<200 https://stats.nba.com/schedule/>,/players/defense-dash-lt6/,Defending Less Than 6 FT
+<200 https://stats.nba.com/schedule/>,/players/defense-dash-lt10/,Defending Less Than 10 FT
+<200 https://stats.nba.com/schedule/>,/players/defense-dash-gt15/,Defending More Than 15 FT
+<200 https://stats.nba.com/schedule/>,/players/opponent-shooting/,Opponent Shooting
+<200 https://stats.nba.com/schedule/>,/players/isolation/?OD=defensive,By Play Type
+<200 https://stats.nba.com/schedule/>,,Tracking 
+<200 https://stats.nba.com/schedule/>,/players/catch-shoot/,Catch & Shoot
+<200 https://stats.nba.com/schedule/>,/players/defensive-impact/,Defensive Impact
+<200 https://stats.nba.com/schedule/>,/players/drives/,Drives
+<200 https://stats.nba.com/schedule/>,/players/passing/,Passing
+<200 https://stats.nba.com/schedule/>,/players/touches/,Touches
+<200 https://stats.nba.com/schedule/>,/players/pullup/,Pull Up Shooting
+<200 https://stats.nba.com/schedule/>,/players/rebounding/,Rebounding
+<200 https://stats.nba.com/schedule/>,/players/offensive-rebounding/,Offensive Rebounding
+<200 https://stats.nba.com/schedule/>,/players/defensive-rebounding/,Defensive Rebounding
+<200 https://stats.nba.com/schedule/>,/players/shooting-efficiency/,Shooting Efficiency
+<200 https://stats.nba.com/schedule/>,/players/speed-distance/,Speed & Distance
+<200 https://stats.nba.com/schedule/>,/players/elbow-touch/,Elbow Touches
+<200 https://stats.nba.com/schedule/>,/players/tracking-post-ups/,Post Ups
+<200 https://stats.nba.com/schedule/>,/players/paint-touch/,Paint Touches
+<200 https://stats.nba.com/schedule/>,,Shooting 
+<200 https://stats.nba.com/schedule/>,/players/shots-general/,Shots by General Range
+<200 https://stats.nba.com/schedule/>,/players/shots-shotclock/,Shots by Shotclock
+<200 https://stats.nba.com/schedule/>,/players/shots-dribbles/,Shots by Dribbles
+<200 https://stats.nba.com/schedule/>,/players/shots-touch-time/,Shots by Touch Time
+<200 https://stats.nba.com/schedule/>,/players/shots-closest-defender/,Shots by Closest Defender
+<200 https://stats.nba.com/schedule/>,/players/shots-closest-defender-10/,Shots by Closest Defender (+10 FT)
+<200 https://stats.nba.com/schedule/>,/players/shooting/,Shooting
+<200 https://stats.nba.com/schedule/>,/players/opponent-shooting/,Opponent Shooting
+<200 https://stats.nba.com/schedule/>,/players/hustle/,Hustle Stats
+<200 https://stats.nba.com/schedule/>,/players/bio/,Bios
+<200 https://stats.nba.com/schedule/>,/players/boxscores/,Box Scores
+<200 https://stats.nba.com/schedule/>,,Advanced Box Scores 
+<200 https://stats.nba.com/schedule/>,/players/boxscores-traditional/,Traditional
+<200 https://stats.nba.com/schedule/>,/players/boxscores-advanced/,Advanced
+<200 https://stats.nba.com/schedule/>,/players/boxscores-misc/,Misc
+<200 https://stats.nba.com/schedule/>,/players/boxscores-scoring/,Scoring
+<200 https://stats.nba.com/schedule/>,/players/boxscores-usage/,Usage
+<200 https://stats.nba.com/schedule/>,/teams/,Teams Home
+<200 https://stats.nba.com/schedule/>,,All Teams 
+<200 https://stats.nba.com/schedule/>,/teams/traditional/,Traditional Stats
+<200 https://stats.nba.com/schedule/>,/teams/hustle-leaders/,Hustle Leaders
+<200 https://stats.nba.com/schedule/>,/teams/advanced-leaders/,Advanced Leaders
+<200 https://stats.nba.com/schedule/>,,General 
+<200 https://stats.nba.com/schedule/>,/teams/traditional/,Traditional
+<200 https://stats.nba.com/schedule/>,/teams/advanced/,Advanced
+<200 https://stats.nba.com/schedule/>,/teams/misc/,Misc
+<200 https://stats.nba.com/schedule/>,/teams/four-factors/,Four Factors
+<200 https://stats.nba.com/schedule/>,/teams/scoring/,Scoring
+<200 https://stats.nba.com/schedule/>,/teams/opponent/,Opponent
+<200 https://stats.nba.com/schedule/>,/teams/defense/,Defense
+<200 https://stats.nba.com/schedule/>,,Clutch 
+<200 https://stats.nba.com/schedule/>,/teams/clutch-traditional/,Clutch Traditional
+<200 https://stats.nba.com/schedule/>,/teams/clutch-advanced/,Clutch Advanced
+<200 https://stats.nba.com/schedule/>,/teams/clutch-misc/,Clutch Misc
+<200 https://stats.nba.com/schedule/>,/teams/clutch-four-factors/,Clutch Four Factors
+<200 https://stats.nba.com/schedule/>,/teams/clutch-scoring/,Clutch Scoring
+<200 https://stats.nba.com/schedule/>,/teams/clutch-opponent/,Clutch Opponent
+<200 https://stats.nba.com/schedule/>,,Defense 
+<200 https://stats.nba.com/schedule/>,/teams/defense/,Defense Overall
+<200 https://stats.nba.com/schedule/>,/teams/defense-dash-overall/,Defending Shots Overall
+<200 https://stats.nba.com/schedule/>,/teams/defense-dash-3pt/,Defending 3 Pointers
+<200 https://stats.nba.com/schedule/>,/teams/defense-dash-2pt/,Defending 2 Pointers
+<200 https://stats.nba.com/schedule/>,/teams/defense-dash-lt6/,Defending Less Than 6 FT
+<200 https://stats.nba.com/schedule/>,/teams/defense-dash-lt10/,Defending Less Than 10 FT
+<200 https://stats.nba.com/schedule/>,/teams/defense-dash-gt15/,Defending More Than 15 FT
+<200 https://stats.nba.com/schedule/>,/teams/opponent-shooting/,Overall Opponent Shooting
+<200 https://stats.nba.com/schedule/>,/teams/isolation/?OD=defensive,By Play Type
+<200 https://stats.nba.com/schedule/>,,Tracking 
+<200 https://stats.nba.com/schedule/>,/teams/catch-shoot/,Catch & Shoot
+<200 https://stats.nba.com/schedule/>,/teams/defensive-impact/,Defensive Impact
+<200 https://stats.nba.com/schedule/>,/teams/drives/,Drives
+<200 https://stats.nba.com/schedule/>,/teams/passing/,Passing
+<200 https://stats.nba.com/schedule/>,/teams/touches/,Touches
+<200 https://stats.nba.com/schedule/>,/teams/pullup/,Pull Up Shooting
+<200 https://stats.nba.com/schedule/>,/teams/rebounding/,Rebounding
+<200 https://stats.nba.com/schedule/>,/teams/offensive-rebounding/,Offensive Rebounding
+<200 https://stats.nba.com/schedule/>,/teams/defensive-rebounding/,Defensive Rebounding
+<200 https://stats.nba.com/schedule/>,/teams/shooting-efficiency/,Shooting Efficiency
+<200 https://stats.nba.com/schedule/>,/teams/speed-distance/,Speed & Distance
+<200 https://stats.nba.com/schedule/>,/teams/elbow-touch/,Elbow Touches
+<200 https://stats.nba.com/schedule/>,/teams/tracking-post-ups/,Post Ups
+<200 https://stats.nba.com/schedule/>,/teams/paint-touch/,Paint Touches
+<200 https://stats.nba.com/schedule/>,,Shooting 
+<200 https://stats.nba.com/schedule/>,/teams/shots-general/,Shots By General Range
+<200 https://stats.nba.com/schedule/>,/teams/shots-shotclock/,Shots By Shotclock
+<200 https://stats.nba.com/schedule/>,/teams/shots-dribbles/,Shots By Dribbles
+<200 https://stats.nba.com/schedule/>,/teams/shots-touch-time/,Shots By Touch Time
+<200 https://stats.nba.com/schedule/>,/teams/shots-closest-defender/,Shots By Closest Defender
+<200 https://stats.nba.com/schedule/>,/teams/shots-closest-defender-10/,Shots By Closest Defender (+10 FT)
+<200 https://stats.nba.com/schedule/>,/teams/shooting/,Shooting
+<200 https://stats.nba.com/schedule/>,,Opponent Shooting 
+<200 https://stats.nba.com/schedule/>,/teams/opponent-shooting/,Overall Opponent Shooting
+<200 https://stats.nba.com/schedule/>,/teams/opponent-shots-general/,Opponent Shots By General Range
+<200 https://stats.nba.com/schedule/>,/teams/opponent-shots-shotclock/,Opponent Shots By Shotclock
+<200 https://stats.nba.com/schedule/>,/teams/opponent-shots-dribbles/,Opponent Shots By Dribbles
+<200 https://stats.nba.com/schedule/>,/teams/opponent-shots-touch-time/,Opponent Shots By Touch Time
+<200 https://stats.nba.com/schedule/>,/teams/opponent-shots-closest-defender/,Opponent Shots By Closest Defender
+<200 https://stats.nba.com/schedule/>,/teams/opponent-shots-closest-defender-10/,Opponent Shots By Closest Defender (+10 FT)
+<200 https://stats.nba.com/schedule/>,/teams/hustle/,Hustle Stats
+<200 https://stats.nba.com/schedule/>,/teams/boxscores/,Box Scores
+<200 https://stats.nba.com/schedule/>,,Advanced Box Scores 
+<200 https://stats.nba.com/schedule/>,/teams/boxscores-traditional/,Traditional
+<200 https://stats.nba.com/schedule/>,/teams/boxscores-advanced/,Advanced
+<200 https://stats.nba.com/schedule/>,/teams/boxscores-four-factors/,Four Factors
+<200 https://stats.nba.com/schedule/>,/teams/boxscores-misc/,Misc
+<200 https://stats.nba.com/schedule/>,/teams/boxscores-scoring/,Scoring
+<200 https://stats.nba.com/schedule/>,/fantasynews/,Fantasy News
+<200 https://stats.nba.com/schedule/>,/fantasycompare/,Fantasy Compare
+<200 https://stats.nba.com/schedule/>,/fantasydraft/,Fantasy Mock Draft
+<200 https://stats.nba.com/schedule/>,/fantasyranking/,Fantasy Cumulative Ranking
+<200 https://stats.nba.com/schedule/>,/lineups/traditional/,Traditional
+<200 https://stats.nba.com/schedule/>,/lineups/advanced/,Advanced
+<200 https://stats.nba.com/schedule/>,/lineups/misc/,Misc
+<200 https://stats.nba.com/schedule/>,/lineups/four-factors/,Four Factors
+<200 https://stats.nba.com/schedule/>,/lineups/scoring/,Scoring
+<200 https://stats.nba.com/schedule/>,/lineups/opponent/,Opponent
+<200 https://stats.nba.com/schedule/>,/draft/combine/,2018 Draft Combine
+<200 https://stats.nba.com/schedule/>,/draft/history/,Draft History
+<200 https://stats.nba.com/schedule/>,/draft/combine-spot-up/,Combine Spot Up Shooting
+<200 https://stats.nba.com/schedule/>,/draft/combine-non-stationary/,Combine Non-Stationary Shooting
+<200 https://stats.nba.com/schedule/>,/draft/combine-strength-agility/,Combine Strength & Agility
+<200 https://stats.nba.com/schedule/>,/draft/combine-anthro/,Combine Anthro
+<200 https://stats.nba.com/schedule/>,/search/player-game/,Player Box Score Search
+<200 https://stats.nba.com/schedule/>,/search/team-game/,Team Box Score Search
+<200 https://stats.nba.com/schedule/>,/search/player-streak/,Player Streak Search
+<200 https://stats.nba.com/schedule/>,/search/team-streak/,Team Streak Search
+<200 https://stats.nba.com/schedule/>,/vs/,Player Compare
+<200 https://stats.nba.com/schedule/>,/fantasycompare/,Fantasy Compare
+<200 https://stats.nba.com/schedule/>,/impact/,Impact
+<200 https://stats.nba.com/schedule/>,/history/,Franchise History
+<200 https://stats.nba.com/schedule/>,/help/statminimums/,Statistical Minimums
+<200 https://stats.nba.com/schedule/>,/help/glossary/,Glossary
+<200 https://stats.nba.com/schedule/>,/transactions/,Transactions
+<200 https://stats.nba.com/schedule/>,/fantasynews/,Fantasy News
+<200 https://stats.nba.com/schedule/>,/featuredarchive/,Articles
+<200 https://stats.nba.com/schedule/>,/spotlightarchive/,Weekly Stats Archive
+<200 https://stats.nba.com/schedule/>,/help/faq/,FAQ
+<200 https://stats.nba.com/schedule/>,/help/whatsnew/,What's New
+<200 https://stats.nba.com/schedule/>,/help/videostatus/,Video & Tracking Status
+<200 https://stats.nba.com/schedule/>,http://videorulebook.nba.com,Video Rulebook
+<200 https://stats.nba.com/schedule/>,/help/,Contact Us
+<200 https://stats.nba.com/schedule/>,/finals/,2018 Finals
+<200 https://stats.nba.com/schedule/>,/playoffs/,2018 Playoffs
+<200 https://stats.nba.com/schedule/>,/schedule/summerleague/,2018 Summer League
+<200 https://stats.nba.com/schedule/>,,All-Star Infographics
+<200 https://stats.nba.com/schedule/>,/allstar2018/friday/,All-Star Friday Infographic
+<200 https://stats.nba.com/schedule/>,/allstar2018/saturday/,All-Star Saturday Infographic
+<200 https://stats.nba.com/schedule/>,/allstar2018/sunday/,All-Star Sunday Infographic
+<200 https://stats.nba.com/schedule/>,/draft/combine/,2018 Draft Combine
+<200 https://stats.nba.com/>,/player/{{ player.id }}/,Profile
+<200 https://stats.nba.com/>,/player/{{ player.id }}/traditional/,Traditional
+<200 https://stats.nba.com/>,/player/{{ player.id }}/advanced/,Advanced
+<200 https://stats.nba.com/>,/player/{{ player.id }}/misc/,Misc
+<200 https://stats.nba.com/>,/player/{{ player.id }}/scoring/,Scoring
+<200 https://stats.nba.com/>,/player/{{ player.id }}/usage/,Usage
+<200 https://stats.nba.com/>,/player/{{ player.id }}/shooting/,Shooting
+<200 https://stats.nba.com/>,/player/{{ player.id }}/career/,Career
+<200 https://stats.nba.com/>,/player/{{ player.id }}/boxscores/,Box Scores
+<200 https://stats.nba.com/>,/player/{{ player.id }}/boxscores-traditional/,Advanced Box Scores Traditional
+<200 https://stats.nba.com/>,/player/{{ player.id }}/boxscores-advanced/,Advanced Box Scores Advanced
+<200 https://stats.nba.com/>,/player/{{ player.id }}/boxscores-misc/,Advanced Box Scores Misc
+<200 https://stats.nba.com/>,/player/{{ player.id }}/boxscores-scoring/,Advanced Box Scores Scoring
+<200 https://stats.nba.com/>,/player/{{ player.id }}/boxscores-usage/,Advanced Box Scores Usage
+<200 https://stats.nba.com/>,/player/{{ player.id }}/shots-dash/,Shots Dashboard
+<200 https://stats.nba.com/>,/player/{{ player.id }}/rebounds-dash/,Rebounds Dashboard
+<200 https://stats.nba.com/>,/player/{{ player.id }}/passes-dash/,Passes Dashboard
+<200 https://stats.nba.com/>,/player/{{ player.id }}/defense-dash/,Defense Dashboard
+<200 https://stats.nba.com/>,/team/{{ team.id }}/,Profile
+<200 https://stats.nba.com/>,/team/{{ team.id }}/traditional/,Traditional
+<200 https://stats.nba.com/>,/team/{{ team.id }}/advanced/,Advanced
+<200 https://stats.nba.com/>,/team/{{ team.id }}/four-factors/,Four Factors
+<200 https://stats.nba.com/>,/team/{{ team.id }}/misc/,Misc
+<200 https://stats.nba.com/>,/team/{{ team.id }}/scoring/,Scoring
+<200 https://stats.nba.com/>,/team/{{ team.id }}/opponent/,Opponent
+<200 https://stats.nba.com/>,/team/{{ team.id }}/shooting/,Shooting
+<200 https://stats.nba.com/>,/team/{{ team.id }}/lineups-traditional/,Lineups Traditional
+<200 https://stats.nba.com/>,/team/{{ team.id }}/lineups-advanced/,Lineups Advanced
+<200 https://stats.nba.com/>,/team/{{ team.id }}/lineups-four-factors/,Lineups Four Factors
+<200 https://stats.nba.com/>,/team/{{ team.id }}/lineups-misc/,Lineups Misc
+<200 https://stats.nba.com/>,/team/{{ team.id }}/lineups-scoring/,Lineups Scoring
+<200 https://stats.nba.com/>,/team/{{ team.id }}/lineups-opponent/,Lineups Opponent
+<200 https://stats.nba.com/>,/team/{{ team.id }}/players-traditional/,Players Traditional
+<200 https://stats.nba.com/>,/team/{{ team.id }}/players-advanced/,Players Advanced
+<200 https://stats.nba.com/>,/team/{{ team.id }}/players-misc/,Players Misc
+<200 https://stats.nba.com/>,/team/{{ team.id }}/players-scoring/,Players Scoring
+<200 https://stats.nba.com/>,/team/{{ team.id }}/players-usage/,Players Usage
+<200 https://stats.nba.com/>,/team/{{ team.id }}/onoffcourt-traditional/,On/Off Court Traditional
+<200 https://stats.nba.com/>,/team/{{ team.id }}/onoffcourt-advanced/,On/Off Court Advanced
+<200 https://stats.nba.com/>,/team/{{ team.id }}/onoffcourt-four-factors/,On/Off Court Four Factors
+<200 https://stats.nba.com/>,/team/{{ team.id }}/onoffcourt-misc/,On/Off Court Misc
+<200 https://stats.nba.com/>,/team/{{ team.id }}/onoffcourt-scoring/,On/Off Court Scoring
+<200 https://stats.nba.com/>,/team/{{ team.id }}/onoffcourt-opponent/,On/Off Court Opponent
+<200 https://stats.nba.com/>,/team/{{ team.id }}/onoffcourt-summary/,On/Off Court Summary
+<200 https://stats.nba.com/>,/team/{{ team.id }}/shots-dash/,Shots Dashboard
+<200 https://stats.nba.com/>,/team/{{ team.id }}/rebounds-dash/,Rebounds Dashboard
+<200 https://stats.nba.com/>,/team/{{ team.id }}/passes-dash/,Passes Dashboard
+<200 https://stats.nba.com/>,/team/{{ team.id }}/boxscores/,Box Scores
+<200 https://stats.nba.com/>,/team/{{ team.id }}/boxscores-traditional/,Advanced Box Scores Traditional
+<200 https://stats.nba.com/>,/team/{{ team.id }}/boxscores-advanced/,Advanced Box Scores Advanced
+<200 https://stats.nba.com/>,/team/{{ team.id }}/boxscores-four-factors/,Advanced Box Scores Four Factors
+<200 https://stats.nba.com/>,/team/{{ team.id }}/boxscores-misc/,Advanced Box Scores Misc
+<200 https://stats.nba.com/>,/team/{{ team.id }}/boxscores-scoring/,Advanced Box Scores Scoring
+<200 https://stats.nba.com/>,/team/{{ team.id }}/seasons/,Seasons
+<200 https://stats.nba.com/>,/team/{{ team.id }}/yearoveryear/,Year Over Year
+<200 https://stats.nba.com/>,/team/{{ team.id }}/franchise-leaders/,Franchise Leaders
+<200 https://stats.nba.com/>,/team/{{ team.id }}/historic-roster/,Historic Roster
+<200 https://stats.nba.com/>,/vs/,Traditional
+<200 https://stats.nba.com/>,/vs/advanced/,Advanced
+<200 https://stats.nba.com/>,/vs/misc/,Misc
+<200 https://stats.nba.com/>,/vs/scoring/,Scoring
+<200 https://stats.nba.com/>,/vs/four-factors/,Four Factors
+<200 https://stats.nba.com/>,/vs/opponent/,Opponent
+<200 https://stats.nba.com/>,/game/{{ game.id }}/,Box Score
+<200 https://stats.nba.com/>,/game/{{ game.id }}/advanced/,Advanced
+<200 https://stats.nba.com/>,/game/{{ game.id }}/misc/,Misc
+<200 https://stats.nba.com/>,/game/{{ game.id }}/scoring/,Scoring
+<200 https://stats.nba.com/>,/game/{{ game.id }}/usage/,Usage
+<200 https://stats.nba.com/>,/game/{{ game.id }}/four-factors/,Four Factors
+<200 https://stats.nba.com/>,/game/{{ game.id }}/tracking/,Player Tracking
+<200 https://stats.nba.com/>,/game/{{ game.id }}/playbyplay/,Play By Play
+<200 https://stats.nba.com/>,/game/{{ game.id }}/shotchart/,Shotchart
+<200 https://stats.nba.com/>,/game/{{ game.id }}/charts/,Game Charts
+<200 https://stats.nba.com/>,/game/{{ game.id }}/hustle/,Hustle
+<200 https://stats.nba.com/>,/fantasycompare/,Traditional
+<200 https://stats.nba.com/>,/fantasycompare/advanced/,Advanced
+<200 https://stats.nba.com/>,/fantasycompare/misc/,Misc
+<200 https://stats.nba.com/>,/fantasycompare/scoring/,Scoring
+<200 https://stats.nba.com/>,/impact/{{ impact }},Traditional
+<200 https://stats.nba.com/>,/impact/advanced/{{ impact }},Advanced
+<200 https://stats.nba.com/>,/impact/misc/{{ impact }},Misc
+<200 https://stats.nba.com/>,/impact/scoring/{{ impact }},Scoring
+<200 https://stats.nba.com/>,/impact/four-factors/{{ impact }},Four Factors
+<200 https://stats.nba.com/>,/impact/defense/{{ impact }},Defense
+<200 https://stats.nba.com/>,/players/,Players Home
+<200 https://stats.nba.com/>,/players/list/,Player Index
+<200 https://stats.nba.com/>,/players/traditional/,Traditional Stats
+<200 https://stats.nba.com/>,/leaders/,Regular Season Leaders
+<200 https://stats.nba.com/>,/players/hustle-leaders/,Hustle Leaders
+<200 https://stats.nba.com/>,/players/advanced-leaders/,Advanced Leaders
+<200 https://stats.nba.com/>,/alltime/,All Time Leaders
+<200 https://stats.nba.com/>,,General 
+<200 https://stats.nba.com/>,/players/traditional/,Traditional
+<200 https://stats.nba.com/>,/players/advanced/,Advanced
+<200 https://stats.nba.com/>,/players/misc/,Misc
+<200 https://stats.nba.com/>,/players/scoring/,Scoring
+<200 https://stats.nba.com/>,/players/usage/,Usage
+<200 https://stats.nba.com/>,/players/opponent/,Opponent
+<200 https://stats.nba.com/>,/players/defense/,Defense
+<200 https://stats.nba.com/>,,Clutch 
+<200 https://stats.nba.com/>,/players/clutch-traditional/,Clutch Traditional
+<200 https://stats.nba.com/>,/players/clutch-advanced/,Clutch Advanced
+<200 https://stats.nba.com/>,/players/clutch-misc/,Clutch Misc
+<200 https://stats.nba.com/>,/players/clutch-scoring/,Clutch Scoring
+<200 https://stats.nba.com/>,/players/clutch-usage/,Clutch Usage
+<200 https://stats.nba.com/>,,Defense 
+<200 https://stats.nba.com/>,/players/defense/,Defense Overall
+<200 https://stats.nba.com/>,/players/defense-dash-overall/,Defending Shots Overall
+<200 https://stats.nba.com/>,/players/defense-dash-3pt/,Defending 3 Pointers
+<200 https://stats.nba.com/>,/players/defense-dash-2pt/,Defending 2 Pointers
+<200 https://stats.nba.com/>,/players/defense-dash-lt6/,Defending Less Than 6 FT
+<200 https://stats.nba.com/>,/players/defense-dash-lt10/,Defending Less Than 10 FT
+<200 https://stats.nba.com/>,/players/defense-dash-gt15/,Defending More Than 15 FT
+<200 https://stats.nba.com/>,/players/opponent-shooting/,Opponent Shooting
+<200 https://stats.nba.com/>,/players/isolation/?OD=defensive,By Play Type
+<200 https://stats.nba.com/>,,Tracking 
+<200 https://stats.nba.com/>,/players/catch-shoot/,Catch & Shoot
+<200 https://stats.nba.com/>,/players/defensive-impact/,Defensive Impact
+<200 https://stats.nba.com/>,/players/drives/,Drives
+<200 https://stats.nba.com/>,/players/passing/,Passing
+<200 https://stats.nba.com/>,/players/touches/,Touches
+<200 https://stats.nba.com/>,/players/pullup/,Pull Up Shooting
+<200 https://stats.nba.com/>,/players/rebounding/,Rebounding
+<200 https://stats.nba.com/>,/players/offensive-rebounding/,Offensive Rebounding
+<200 https://stats.nba.com/>,/players/defensive-rebounding/,Defensive Rebounding
+<200 https://stats.nba.com/>,/players/shooting-efficiency/,Shooting Efficiency
+<200 https://stats.nba.com/>,/players/speed-distance/,Speed & Distance
+<200 https://stats.nba.com/>,/players/elbow-touch/,Elbow Touches
+<200 https://stats.nba.com/>,/players/tracking-post-ups/,Post Ups
+<200 https://stats.nba.com/>,/players/paint-touch/,Paint Touches
+<200 https://stats.nba.com/>,,Shooting 
+<200 https://stats.nba.com/>,/players/shots-general/,Shots by General Range
+<200 https://stats.nba.com/>,/players/shots-shotclock/,Shots by Shotclock
+<200 https://stats.nba.com/>,/players/shots-dribbles/,Shots by Dribbles
+<200 https://stats.nba.com/>,/players/shots-touch-time/,Shots by Touch Time
+<200 https://stats.nba.com/>,/players/shots-closest-defender/,Shots by Closest Defender
+<200 https://stats.nba.com/>,/players/shots-closest-defender-10/,Shots by Closest Defender (+10 FT)
+<200 https://stats.nba.com/>,/players/shooting/,Shooting
+<200 https://stats.nba.com/>,/players/opponent-shooting/,Opponent Shooting
+<200 https://stats.nba.com/>,/players/hustle/,Hustle Stats
+<200 https://stats.nba.com/>,/players/bio/,Bios
+<200 https://stats.nba.com/>,/players/boxscores/,Box Scores
+<200 https://stats.nba.com/>,,Advanced Box Scores 
+<200 https://stats.nba.com/>,/players/boxscores-traditional/,Traditional
+<200 https://stats.nba.com/>,/players/boxscores-advanced/,Advanced
+<200 https://stats.nba.com/>,/players/boxscores-misc/,Misc
+<200 https://stats.nba.com/>,/players/boxscores-scoring/,Scoring
+<200 https://stats.nba.com/>,/players/boxscores-usage/,Usage
+<200 https://stats.nba.com/>,/teams/,Teams Home
+<200 https://stats.nba.com/>,,All Teams 
+<200 https://stats.nba.com/>,/teams/traditional/,Traditional Stats
+<200 https://stats.nba.com/>,/teams/hustle-leaders/,Hustle Leaders
+<200 https://stats.nba.com/>,/teams/advanced-leaders/,Advanced Leaders
+<200 https://stats.nba.com/>,,General 
+<200 https://stats.nba.com/>,/teams/traditional/,Traditional
+<200 https://stats.nba.com/>,/teams/advanced/,Advanced
+<200 https://stats.nba.com/>,/teams/misc/,Misc
+<200 https://stats.nba.com/>,/teams/four-factors/,Four Factors
+<200 https://stats.nba.com/>,/teams/scoring/,Scoring
+<200 https://stats.nba.com/>,/teams/opponent/,Opponent
+<200 https://stats.nba.com/>,/teams/defense/,Defense
+<200 https://stats.nba.com/>,,Clutch 
+<200 https://stats.nba.com/>,/teams/clutch-traditional/,Clutch Traditional
+<200 https://stats.nba.com/>,/teams/clutch-advanced/,Clutch Advanced
+<200 https://stats.nba.com/>,/teams/clutch-misc/,Clutch Misc
+<200 https://stats.nba.com/>,/teams/clutch-four-factors/,Clutch Four Factors
+<200 https://stats.nba.com/>,/teams/clutch-scoring/,Clutch Scoring
+<200 https://stats.nba.com/>,/teams/clutch-opponent/,Clutch Opponent
+<200 https://stats.nba.com/>,,Defense 
+<200 https://stats.nba.com/>,/teams/defense/,Defense Overall
+<200 https://stats.nba.com/>,/teams/defense-dash-overall/,Defending Shots Overall
+<200 https://stats.nba.com/>,/teams/defense-dash-3pt/,Defending 3 Pointers
+<200 https://stats.nba.com/>,/teams/defense-dash-2pt/,Defending 2 Pointers
+<200 https://stats.nba.com/>,/teams/defense-dash-lt6/,Defending Less Than 6 FT
+<200 https://stats.nba.com/>,/teams/defense-dash-lt10/,Defending Less Than 10 FT
+<200 https://stats.nba.com/>,/teams/defense-dash-gt15/,Defending More Than 15 FT
+<200 https://stats.nba.com/>,/teams/opponent-shooting/,Overall Opponent Shooting
+<200 https://stats.nba.com/>,/teams/isolation/?OD=defensive,By Play Type
+<200 https://stats.nba.com/>,,Tracking 
+<200 https://stats.nba.com/>,/teams/catch-shoot/,Catch & Shoot
+<200 https://stats.nba.com/>,/teams/defensive-impact/,Defensive Impact
+<200 https://stats.nba.com/>,/teams/drives/,Drives
+<200 https://stats.nba.com/>,/teams/passing/,Passing
+<200 https://stats.nba.com/>,/teams/touches/,Touches
+<200 https://stats.nba.com/>,/teams/pullup/,Pull Up Shooting
+<200 https://stats.nba.com/>,/teams/rebounding/,Rebounding
+<200 https://stats.nba.com/>,/teams/offensive-rebounding/,Offensive Rebounding
+<200 https://stats.nba.com/>,/teams/defensive-rebounding/,Defensive Rebounding
+<200 https://stats.nba.com/>,/teams/shooting-efficiency/,Shooting Efficiency
+<200 https://stats.nba.com/>,/teams/speed-distance/,Speed & Distance
+<200 https://stats.nba.com/>,/teams/elbow-touch/,Elbow Touches
+<200 https://stats.nba.com/>,/teams/tracking-post-ups/,Post Ups
+<200 https://stats.nba.com/>,/teams/paint-touch/,Paint Touches
+<200 https://stats.nba.com/>,,Shooting 
+<200 https://stats.nba.com/>,/teams/shots-general/,Shots By General Range
+<200 https://stats.nba.com/>,/teams/shots-shotclock/,Shots By Shotclock
+<200 https://stats.nba.com/>,/teams/shots-dribbles/,Shots By Dribbles
+<200 https://stats.nba.com/>,/teams/shots-touch-time/,Shots By Touch Time
+<200 https://stats.nba.com/>,/teams/shots-closest-defender/,Shots By Closest Defender
+<200 https://stats.nba.com/>,/teams/shots-closest-defender-10/,Shots By Closest Defender (+10 FT)
+<200 https://stats.nba.com/>,/teams/shooting/,Shooting
+<200 https://stats.nba.com/>,,Opponent Shooting 
+<200 https://stats.nba.com/>,/teams/opponent-shooting/,Overall Opponent Shooting
+<200 https://stats.nba.com/>,/teams/opponent-shots-general/,Opponent Shots By General Range
+<200 https://stats.nba.com/>,/teams/opponent-shots-shotclock/,Opponent Shots By Shotclock
+<200 https://stats.nba.com/>,/teams/opponent-shots-dribbles/,Opponent Shots By Dribbles
+<200 https://stats.nba.com/>,/teams/opponent-shots-touch-time/,Opponent Shots By Touch Time
+<200 https://stats.nba.com/>,/teams/opponent-shots-closest-defender/,Opponent Shots By Closest Defender
+<200 https://stats.nba.com/>,/teams/opponent-shots-closest-defender-10/,Opponent Shots By Closest Defender (+10 FT)
+<200 https://stats.nba.com/>,/teams/hustle/,Hustle Stats
+<200 https://stats.nba.com/>,/teams/boxscores/,Box Scores
+<200 https://stats.nba.com/>,,Advanced Box Scores 
+<200 https://stats.nba.com/>,/teams/boxscores-traditional/,Traditional
+<200 https://stats.nba.com/>,/teams/boxscores-advanced/,Advanced
+<200 https://stats.nba.com/>,/teams/boxscores-four-factors/,Four Factors
+<200 https://stats.nba.com/>,/teams/boxscores-misc/,Misc
+<200 https://stats.nba.com/>,/teams/boxscores-scoring/,Scoring
+<200 https://stats.nba.com/>,/fantasynews/,Fantasy News
+<200 https://stats.nba.com/>,/fantasycompare/,Fantasy Compare
+<200 https://stats.nba.com/>,/fantasydraft/,Fantasy Mock Draft
+<200 https://stats.nba.com/>,/fantasyranking/,Fantasy Cumulative Ranking
+<200 https://stats.nba.com/>,/lineups/traditional/,Traditional
+<200 https://stats.nba.com/>,/lineups/advanced/,Advanced
+<200 https://stats.nba.com/>,/lineups/misc/,Misc
+<200 https://stats.nba.com/>,/lineups/four-factors/,Four Factors
+<200 https://stats.nba.com/>,/lineups/scoring/,Scoring
+<200 https://stats.nba.com/>,/lineups/opponent/,Opponent
+<200 https://stats.nba.com/>,/draft/combine/,2018 Draft Combine
+<200 https://stats.nba.com/>,/draft/history/,Draft History
+<200 https://stats.nba.com/>,/draft/combine-spot-up/,Combine Spot Up Shooting
+<200 https://stats.nba.com/>,/draft/combine-non-stationary/,Combine Non-Stationary Shooting
+<200 https://stats.nba.com/>,/draft/combine-strength-agility/,Combine Strength & Agility
+<200 https://stats.nba.com/>,/draft/combine-anthro/,Combine Anthro
+<200 https://stats.nba.com/>,/search/player-game/,Player Box Score Search
+<200 https://stats.nba.com/>,/search/team-game/,Team Box Score Search
+<200 https://stats.nba.com/>,/search/player-streak/,Player Streak Search
+<200 https://stats.nba.com/>,/search/team-streak/,Team Streak Search
+<200 https://stats.nba.com/>,/vs/,Player Compare
+<200 https://stats.nba.com/>,/fantasycompare/,Fantasy Compare
+<200 https://stats.nba.com/>,/impact/,Impact
+<200 https://stats.nba.com/>,/history/,Franchise History
+<200 https://stats.nba.com/>,/help/statminimums/,Statistical Minimums
+<200 https://stats.nba.com/>,/help/glossary/,Glossary
+<200 https://stats.nba.com/>,/transactions/,Transactions
+<200 https://stats.nba.com/>,/fantasynews/,Fantasy News
+<200 https://stats.nba.com/>,/featuredarchive/,Articles
+<200 https://stats.nba.com/>,/spotlightarchive/,Weekly Stats Archive
+<200 https://stats.nba.com/>,/help/faq/,FAQ
+<200 https://stats.nba.com/>,/help/whatsnew/,What's New
+<200 https://stats.nba.com/>,/help/videostatus/,Video & Tracking Status
+<200 https://stats.nba.com/>,http://videorulebook.nba.com,Video Rulebook
+<200 https://stats.nba.com/>,/help/,Contact Us
+<200 https://stats.nba.com/>,/finals/,2018 Finals
+<200 https://stats.nba.com/>,/playoffs/,2018 Playoffs
+<200 https://stats.nba.com/>,/schedule/summerleague/,2018 Summer League
+<200 https://stats.nba.com/>,,All-Star Infographics
+<200 https://stats.nba.com/>,/allstar2018/friday/,All-Star Friday Infographic
+<200 https://stats.nba.com/>,/allstar2018/saturday/,All-Star Saturday Infographic
+<200 https://stats.nba.com/>,/allstar2018/sunday/,All-Star Sunday Infographic
+<200 https://stats.nba.com/>,/draft/combine/,2018 Draft Combine
+resp,link,title
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=6960520011,Award Winners
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/s?ie=UTF8&bbn=283155&rh=i%3Astripbooks%2Cn%3A283155%2Cp_n_special_merchandising_browse-bin%3A394172011,Bargain Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Fall-Reading-Books/b?ie=UTF8&node=5556316011,Fall Reading
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Best-Books-of-the-Month/b?ie=UTF8&node=390919011,Best Books of the Month
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=17276804011,Best Books of the Year
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=16568978011,Books in Spanish
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Childrens-Books/b?ie=UTF8&node=4,Children's Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Bargain-Books/b?ie=UTF8&node=45,Deals in Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Prime-Book-Box-for-Kids/dp/B072J4QS9F,Prime Book Box
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=11913537011,Top 20 Lists in Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=8192263011,100 Books to Read in a Lifetime
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,http://www.amazon.com:80/gp/redirect.html?location=http://www.omnivoracious.com/&token=DEF1D0758E667C928314D8D6645CBCC4A8DBCD89&source=standards,Amazon Book Review Blog
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com:443/gp/redirect.html?location=https://www.facebook.com/Amazon.comBooks&token=9EA8366686CD595ACE11E35907FA51DE74E7734F&source=standards,Amazon Books on Facebook
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,http://www.amazon.com:80/gp/redirect.html?location=http://www.twitter.com/amazonbooks&token=DAE2962CE50ED5476D31EC9336376A6BB3E6864B&source=standards,Amazon Books on Twitter
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=13270229011,Amazon Books Stores
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/firstreads?_encoding=UTF8&ref=afr_BHP%2F,Amazon First Reads
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Book-Club-Picks/b?ie=UTF8&node=8081575011,Book Club Picks
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Books-with-Buzz-Books/b?ie=UTF8&node=9093757011,Books with Buzz
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/From-Page-to-Screen-Books/b?ie=UTF8&node=6574866011,From Page to Screen
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Start-a-New-Series-Books/b?ie=UTF8&node=6574835011,Start a New Series
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/New-Used-Textbooks-Books/b?ie=UTF8&node=465600,Textbooks Store
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Rent-Textbooks/b?ie=UTF8&node=5657188011,Textbook Rentals
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Sell-Books/b?ie=UTF8&node=2205237011,Sell Us Your Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Kindle-eTextbooks/b?ie=UTF8&node=2223210011,Kindle eTextbooks
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Audible-Audiobooks/b?ie=UTF8&node=2402172011,Audible Audiobooks
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Kindle-eBooks/b?ie=UTF8&node=154606011,Kindle eBooks
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=11552285011,Kindle Deals
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/kindle/ku/sign-up/ui/rw/about,Kindle Unlimited
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/kindle-dbs/fd/prime-pr,Prime Reading
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Books/b?ie=UTF8&node=549028,The New York Times® Best Sellers
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=3062169011,China Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=16568978011,Libros en Español
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Accessories-Books/b?ie=UTF8&node=265040,"Stationery, Journals & Notebooks"
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.jobs,Careers
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://blog.aboutamazon.com/?utm_source=gateway&utm_medium=footer,Blog
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer,About Amazon
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com/pr,Press Center
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com/ir,Investor Relations
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/amazon-devices/b?ie=UTF8&node=2102313011,Amazon Devices
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fcontent%2Fsell-on-amazon.htm%2Fref%3Dfooter_soa%3Fld%3DAZFSSOA&source=standards&token=6D14D9F0E8CC2831C68BA56C95FCDC34988C3979,Sell on Amazon
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com/l/ref=map_1_b2b_GW_FT?node=17882322011,Sell Under Private Brands
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fhandmade%2Fhandmade.html%3Fld%3DAZUSHNDFooter&source=standards&token=0DB36349EAB72B987928A46EC862BDF86C9039B4,Sell on Amazon Handmade
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fselling-services%2Fbenefits.htm%3Fld%3DAZUSVAS-globalfooter&source=standards&token=C11D6CD96DB34C590F5368F18106AAC385ECAAC6,Sell Your Services on Amazon
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://services.amazon.com/amazon-business.html?ld=usb2bunifooter,Sell on Amazon Business
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://developer.amazon.com,Sell Your Apps on Amazon
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://affiliate-program.amazon.com/,Become an Affiliate
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://advertising.amazon.com/?ref=ext_amzn_ftr,Advertise Your Products
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/seller-account/mm-summary-page.html?ie=UTF8&ld=AZFooterSelfPublish&topic=200260520,Self-Publish with Us
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b/?_encoding=UTF8&ld=AZUSSOA-seeall&node=13605942011,See all
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/iss/credit/rewardscardmember?_encoding=UTF8&plattr=CBFOOT,Amazon Rewards Visa Signature Cards
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/iss/credit/storecardmember?_encoding=UTF8&plattr=PLCCFOOT,Amazon.com Store Card
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/dp/B07984JN3L?_encoding=UTF8&ie=UTF-8&plattr=ACOMFO,Amazon Business Card
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/dp/B07CBJQS16?_encoding=UTF8&ie=UTF-8&place=camp&plattr=CCLFOOT&pr=ibprox,Amazon.com Corporate Credit Line
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=16218619011,Shop with Points
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/compare-credit-card-offers/b?ie=UTF8&node=3561432011,Credit Card Marketplace
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Reload-Your-Gift-Card-Balance/b?ie=UTF8&node=10232440011,Reload Your Balance
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Currency-Converter/b?ie=UTF8&node=388305011,Amazon Currency Converter
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/css/homepage.html,Your Account
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/css/order-history,Your Orders
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/help/customer/display.html?ie=UTF8&nodeId=468520,Shipping Rates & Policies
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/prime,Amazon Prime
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/css/returns/homepage.html,Returns & Replacements
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/digital/fiona/manage,Manage Your Content and Devices
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/BIT/ref=footer_bit_v2_us_A0029?bitCampaignCode=A0029,Amazon Assistant
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/help/customer/display.html?ie=UTF8&nodeId=508510,Help
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/help/customer/display.html?ie=UTF8&nodeId=508088,Conditions of Use
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/help/customer/display.html?ie=UTF8&nodeId=468496,Privacy Notice
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/interestbasedads/ref=footer_iba,Interest-Based Ads
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Movies/b?ie=UTF8&node=2649512011,Movies
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/tv-dvd-bluray/b?ie=UTF8&node=2649513011,TV Shows
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/amazon-fire-tv-4k-uhd-streaming-media-player/dp/B01N32NCPM,Amazon Fire TV
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Amazon-Fire-TV-Stick-With-Alexa-Voice-Remote-Streaming-Media-Player/dp/B00ZV9RDKK,Amazon Fire TV Stick
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Amazon-Fire-7-Tablet-5th-Generation/dp/B00TSUGXKE,Kindle Fire
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/movies-tv-bluray-bluray3d/b?ie=UTF8&node=2901953011,Blu-ray
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/s?ie=UTF8&bbn=2625373011&field-format_browse-bin=2650304011&node=2625373011&page=1,DVD
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/s?ie=UTF8&bbn=2625373011&field-format_browse-bin=9397930011&node=2625373011&page=1,4K Ultra HD
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Amazon-Video/b?ie=UTF8&node=2858778011,Amazon Video
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/new-releases-dvd-bluray/b?ie=UTF8&node=2921748011,New Releases
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=7353051011,Pre-orders
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/kids-family-dvd-bluray/b?ie=UTF8&node=2650365011,Kids & Family
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/todaysdeals-dvd-bluray/b?ie=UTF8&node=2921749011,Today's Deals
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/best-sellers-movies-TV-DVD-Blu-ray/zgbs/movies-tv,Best Sellers
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/action-adventure-dvd-bluray/b?ie=UTF8&node=2650363011,Action & Adventure
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/animation-dvd-bluray/b?ie=UTF8&node=712256,Animation
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/anime-dvd-bluray/b?ie=UTF8&node=2650364011,Anime
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/classics-dvd-bluray/b?ie=UTF8&node=163345,Classics
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/comedy-dvd-bluray/b?ie=UTF8&node=2650366011,Comedy
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/documentaries-dvd-bluray/b?ie=UTF8&node=2650367011,Documentary
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/drama-dvd-bluray/b?ie=UTF8&node=2650368011,Drama
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/exercise-fitness-dvd/b?ie=UTF8&node=2662338011,Exercise & Fitness
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/s?ie=UTF8&rh=i%3Amovies-tv%2Cn%3A2625373011%2Cp_n_theme_browse-bin%3A2676835011,Faith & Spirituality
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Foreign-International-DVD/b?ie=UTF8&node=355667011,Foreign Language & International
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gay-lesbian-lgbt-dvd-bluray/b?ie=UTF8&node=2650370011,Gay & Lesbian
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/horror-dvd-bluray/b?ie=UTF8&node=2650371011,Horror
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/s?ie=UTF8&bbn=355673011&rh=i%3Amovies-tv%2Cn%3A2625373011%2Cn%3A%212644981011%2Cn%3A%212644982011%2Cn%3A%212998369011%2Cn%3A355667011%2Cn%3A355673011,Indian Cinema & Bollywood
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Art-House-International-DVD/b?ie=UTF8&node=163313,Indie & Art House
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/kids-family-dvd-bluray/b?ie=UTF8&node=2650365011,Kids & Family
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/concerts-dvd-bluray/b?ie=UTF8&node=2662339011,Music Videos & Concerts
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Romance-DVD/b?ie=UTF8&node=1240754011,Romance
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/scifi-dvd-bluray/b?ie=UTF8&node=2650376011,Science Fiction
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/westerns-dvd-bluray/b?ie=UTF8&node=2650382011,Western
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=15701066011&ref=MoviesHPBB_BBC,BBC
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/criterion-collection-dvd-bluray/b?ie=UTF8&node=285082&ref=MoviesHPBB_Criterion,Criterion Collection
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/stores/page/C0D15547-D1CB-415E-A6DB-4E4108F34FF5,Deadpool Franchise
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=15897257011&ref=MoviesHPBB_Disney,Disney
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=10510137011&ref=MoviesHPBB_FiftyShades,Fifty Shades of Grey
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=10453070011&ref=MoviesHPBB_GOT,Game of Thrones
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=10433090011&ref=MoviesHPBB_HBO,HBO
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=11624734011&ref=MoviesHPBB_Jurassic,Jurassic World
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=10498613011&ref=MoviesHPBB_Minions,Minions
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Movie-Collectibles/b?ie=UTF8&node=5227784011&ref=MoviesHPBB_collectibles,Movies & TV Collectibles
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/stores/page/E0039B71-485A-4998-BA41-F7D144597788%26ref%3DMoviesHPBB_Outlander,Outlander
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=16158077011&ref=MoviesHPBB_Paramount,Paramount
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=11634850011&ref=MoviesHPBB_Starz,Starz
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/search%3Frh%3Di%3Awarehouse-deals%2Cn%3A10158976011%26bbn%3D10158976011%26rw_html_to_wsrp%3D1/?ie=UTF8&ref=MoviesHPBB_warehouse,Warehouse Deals
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=15433258011&ref=MoviesHPBB_XMen,X-Men Franchise
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fwww.facebook.com%2FAmazonMoviesTV%2F%3Fref%3DMoviesHPBB_facebook&source=standards&token=94E7C2B2C4CCD3BE44CC66CE64A615BFB88E36F7,Facebook
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Ftwitter.com%2Famazon_movies%2F%3Fref%3DMoviesHPBB_twitter&source=standards&token=545842F5C705DEF7400A99D2DFA735733E5B7F0D,Twitter
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Digital-Copy-DVD/b?ie=UTF8&node=721726011&ref=MoviesHPBB_Digcopy,Digital Copy Information
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/promotions/details/popup/AWT354OR7BM1U/?ie=UTF8&ref=MoviesHPBB_POPG,Pre-order Price Guarantee
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.jobs,Careers
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://blog.aboutamazon.com/?utm_source=gateway&utm_medium=footer,Blog
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer,About Amazon
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com/pr,Press Center
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com/ir,Investor Relations
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/amazon-devices/b?ie=UTF8&node=2102313011,Amazon Devices
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fcontent%2Fsell-on-amazon.htm%2Fref%3Dfooter_soa%3Fld%3DAZFSSOA&source=standards&token=6D14D9F0E8CC2831C68BA56C95FCDC34988C3979,Sell on Amazon
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com/l/ref=map_1_b2b_GW_FT?node=17882322011,Sell Under Private Brands
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fhandmade%2Fhandmade.html%3Fld%3DAZUSHNDFooter&source=standards&token=0DB36349EAB72B987928A46EC862BDF86C9039B4,Sell on Amazon Handmade
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fselling-services%2Fbenefits.htm%3Fld%3DAZUSVAS-globalfooter&source=standards&token=C11D6CD96DB34C590F5368F18106AAC385ECAAC6,Sell Your Services on Amazon
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://services.amazon.com/amazon-business.html?ld=usb2bunifooter,Sell on Amazon Business
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://developer.amazon.com,Sell Your Apps on Amazon
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://affiliate-program.amazon.com/,Become an Affiliate
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://advertising.amazon.com/?ref=ext_amzn_ftr,Advertise Your Products
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/seller-account/mm-summary-page.html?ie=UTF8&ld=AZFooterSelfPublish&topic=200260520,Self-Publish with Us
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b/?_encoding=UTF8&ld=AZUSSOA-seeall&node=13605942011,See all
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/iss/credit/rewardscardmember?_encoding=UTF8&plattr=CBFOOT,Amazon Rewards Visa Signature Cards
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/iss/credit/storecardmember?_encoding=UTF8&plattr=PLCCFOOT,Amazon.com Store Card
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/dp/B07984JN3L?_encoding=UTF8&ie=UTF-8&plattr=ACOMFO,Amazon Business Card
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/dp/B07CBJQS16?_encoding=UTF8&ie=UTF-8&place=camp&plattr=CCLFOOT&pr=ibprox,Amazon.com Corporate Credit Line
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=16218619011,Shop with Points
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/compare-credit-card-offers/b?ie=UTF8&node=3561432011,Credit Card Marketplace
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Reload-Your-Gift-Card-Balance/b?ie=UTF8&node=10232440011,Reload Your Balance
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Currency-Converter/b?ie=UTF8&node=388305011,Amazon Currency Converter
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/css/homepage.html,Your Account
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/css/order-history,Your Orders
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/help/customer/display.html?ie=UTF8&nodeId=468520,Shipping Rates & Policies
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/prime,Amazon Prime
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/css/returns/homepage.html,Returns & Replacements
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/digital/fiona/manage,Manage Your Content and Devices
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/BIT/ref=footer_bit_v2_us_A0029?bitCampaignCode=A0029,Amazon Assistant
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/help/customer/display.html?ie=UTF8&nodeId=508510,Help
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/help/customer/display.html?ie=UTF8&nodeId=508088,Conditions of Use
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/help/customer/display.html?ie=UTF8&nodeId=468496,Privacy Notice
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/interestbasedads/ref=footer_iba,Interest-Based Ads
+resp,link,title
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Movies/b?ie=UTF8&node=2649512011,Movies
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/tv-dvd-bluray/b?ie=UTF8&node=2649513011,TV Shows
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/amazon-fire-tv-4k-uhd-streaming-media-player/dp/B01N32NCPM,Amazon Fire TV
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Amazon-Fire-TV-Stick-With-Alexa-Voice-Remote-Streaming-Media-Player/dp/B00ZV9RDKK,Amazon Fire TV Stick
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Amazon-Fire-7-Tablet-5th-Generation/dp/B00TSUGXKE,Kindle Fire
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/movies-tv-bluray-bluray3d/b?ie=UTF8&node=2901953011,Blu-ray
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/s?ie=UTF8&bbn=2625373011&field-format_browse-bin=2650304011&node=2625373011&page=1,DVD
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/s?ie=UTF8&bbn=2625373011&field-format_browse-bin=9397930011&node=2625373011&page=1,4K Ultra HD
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Amazon-Video/b?ie=UTF8&node=2858778011,Amazon Video
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/new-releases-dvd-bluray/b?ie=UTF8&node=2921748011,New Releases
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=6960520011,Award Winners
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/s?ie=UTF8&bbn=283155&rh=i%3Astripbooks%2Cn%3A283155%2Cp_n_special_merchandising_browse-bin%3A394172011,Bargain Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Fall-Reading-Books/b?ie=UTF8&node=5556316011,Fall Reading
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Best-Books-of-the-Month/b?ie=UTF8&node=390919011,Best Books of the Month
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=17276804011,Best Books of the Year
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=16568978011,Books in Spanish
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=7353051011,Pre-orders
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/kids-family-dvd-bluray/b?ie=UTF8&node=2650365011,Kids & Family
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/todaysdeals-dvd-bluray/b?ie=UTF8&node=2921749011,Today's Deals
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/best-sellers-movies-TV-DVD-Blu-ray/zgbs/movies-tv,Best Sellers
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/action-adventure-dvd-bluray/b?ie=UTF8&node=2650363011,Action & Adventure
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/animation-dvd-bluray/b?ie=UTF8&node=712256,Animation
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/anime-dvd-bluray/b?ie=UTF8&node=2650364011,Anime
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Childrens-Books/b?ie=UTF8&node=4,Children's Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Bargain-Books/b?ie=UTF8&node=45,Deals in Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Prime-Book-Box-for-Kids/dp/B072J4QS9F,Prime Book Box
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=11913537011,Top 20 Lists in Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=8192263011,100 Books to Read in a Lifetime
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,http://www.amazon.com:80/gp/redirect.html?location=http://www.omnivoracious.com/&token=DEF1D0758E667C928314D8D6645CBCC4A8DBCD89&source=standards,Amazon Book Review Blog
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/classics-dvd-bluray/b?ie=UTF8&node=163345,Classics
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/comedy-dvd-bluray/b?ie=UTF8&node=2650366011,Comedy
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/documentaries-dvd-bluray/b?ie=UTF8&node=2650367011,Documentary
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/drama-dvd-bluray/b?ie=UTF8&node=2650368011,Drama
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/exercise-fitness-dvd/b?ie=UTF8&node=2662338011,Exercise & Fitness
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/s?ie=UTF8&rh=i%3Amovies-tv%2Cn%3A2625373011%2Cp_n_theme_browse-bin%3A2676835011,Faith & Spirituality
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com:443/gp/redirect.html?location=https://www.facebook.com/Amazon.comBooks&token=9EA8366686CD595ACE11E35907FA51DE74E7734F&source=standards,Amazon Books on Facebook
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,http://www.amazon.com:80/gp/redirect.html?location=http://www.twitter.com/amazonbooks&token=DAE2962CE50ED5476D31EC9336376A6BB3E6864B&source=standards,Amazon Books on Twitter
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=13270229011,Amazon Books Stores
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/firstreads?_encoding=UTF8&ref=afr_BHP%2F,Amazon First Reads
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Book-Club-Picks/b?ie=UTF8&node=8081575011,Book Club Picks
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Books-with-Buzz-Books/b?ie=UTF8&node=9093757011,Books with Buzz
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Foreign-International-DVD/b?ie=UTF8&node=355667011,Foreign Language & International
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gay-lesbian-lgbt-dvd-bluray/b?ie=UTF8&node=2650370011,Gay & Lesbian
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/horror-dvd-bluray/b?ie=UTF8&node=2650371011,Horror
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/s?ie=UTF8&bbn=355673011&rh=i%3Amovies-tv%2Cn%3A2625373011%2Cn%3A%212644981011%2Cn%3A%212644982011%2Cn%3A%212998369011%2Cn%3A355667011%2Cn%3A355673011,Indian Cinema & Bollywood
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Art-House-International-DVD/b?ie=UTF8&node=163313,Indie & Art House
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/kids-family-dvd-bluray/b?ie=UTF8&node=2650365011,Kids & Family
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/From-Page-to-Screen-Books/b?ie=UTF8&node=6574866011,From Page to Screen
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Start-a-New-Series-Books/b?ie=UTF8&node=6574835011,Start a New Series
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/New-Used-Textbooks-Books/b?ie=UTF8&node=465600,Textbooks Store
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Rent-Textbooks/b?ie=UTF8&node=5657188011,Textbook Rentals
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Sell-Books/b?ie=UTF8&node=2205237011,Sell Us Your Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Kindle-eTextbooks/b?ie=UTF8&node=2223210011,Kindle eTextbooks
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/concerts-dvd-bluray/b?ie=UTF8&node=2662339011,Music Videos & Concerts
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Romance-DVD/b?ie=UTF8&node=1240754011,Romance
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/scifi-dvd-bluray/b?ie=UTF8&node=2650376011,Science Fiction
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/westerns-dvd-bluray/b?ie=UTF8&node=2650382011,Western
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=15701066011&ref=MoviesHPBB_BBC,BBC
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/criterion-collection-dvd-bluray/b?ie=UTF8&node=285082&ref=MoviesHPBB_Criterion,Criterion Collection
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Audible-Audiobooks/b?ie=UTF8&node=2402172011,Audible Audiobooks
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Kindle-eBooks/b?ie=UTF8&node=154606011,Kindle eBooks
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=11552285011,Kindle Deals
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/kindle/ku/sign-up/ui/rw/about,Kindle Unlimited
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/kindle-dbs/fd/prime-pr,Prime Reading
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Books/b?ie=UTF8&node=549028,The New York Times® Best Sellers
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/stores/page/C0D15547-D1CB-415E-A6DB-4E4108F34FF5,Deadpool Franchise
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=15897257011&ref=MoviesHPBB_Disney,Disney
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=10510137011&ref=MoviesHPBB_FiftyShades,Fifty Shades of Grey
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=10453070011&ref=MoviesHPBB_GOT,Game of Thrones
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=10433090011&ref=MoviesHPBB_HBO,HBO
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=11624734011&ref=MoviesHPBB_Jurassic,Jurassic World
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=3062169011,China Books
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=16568978011,Libros en Español
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Accessories-Books/b?ie=UTF8&node=265040,"Stationery, Journals & Notebooks"
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.jobs,Careers
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://blog.aboutamazon.com/?utm_source=gateway&utm_medium=footer,Blog
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer,About Amazon
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=10498613011&ref=MoviesHPBB_Minions,Minions
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Movie-Collectibles/b?ie=UTF8&node=5227784011&ref=MoviesHPBB_collectibles,Movies & TV Collectibles
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/stores/page/E0039B71-485A-4998-BA41-F7D144597788%26ref%3DMoviesHPBB_Outlander,Outlander
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=16158077011&ref=MoviesHPBB_Paramount,Paramount
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=11634850011&ref=MoviesHPBB_Starz,Starz
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/search%3Frh%3Di%3Awarehouse-deals%2Cn%3A10158976011%26bbn%3D10158976011%26rw_html_to_wsrp%3D1/?ie=UTF8&ref=MoviesHPBB_warehouse,Warehouse Deals
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com/pr,Press Center
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com/ir,Investor Relations
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/amazon-devices/b?ie=UTF8&node=2102313011,Amazon Devices
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fcontent%2Fsell-on-amazon.htm%2Fref%3Dfooter_soa%3Fld%3DAZFSSOA&source=standards&token=6D14D9F0E8CC2831C68BA56C95FCDC34988C3979,Sell on Amazon
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com/l/ref=map_1_b2b_GW_FT?node=17882322011,Sell Under Private Brands
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fhandmade%2Fhandmade.html%3Fld%3DAZUSHNDFooter&source=standards&token=0DB36349EAB72B987928A46EC862BDF86C9039B4,Sell on Amazon Handmade
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=15433258011&ref=MoviesHPBB_XMen,X-Men Franchise
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fwww.facebook.com%2FAmazonMoviesTV%2F%3Fref%3DMoviesHPBB_facebook&source=standards&token=94E7C2B2C4CCD3BE44CC66CE64A615BFB88E36F7,Facebook
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Ftwitter.com%2Famazon_movies%2F%3Fref%3DMoviesHPBB_twitter&source=standards&token=545842F5C705DEF7400A99D2DFA735733E5B7F0D,Twitter
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Digital-Copy-DVD/b?ie=UTF8&node=721726011&ref=MoviesHPBB_Digcopy,Digital Copy Information
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/promotions/details/popup/AWT354OR7BM1U/?ie=UTF8&ref=MoviesHPBB_POPG,Pre-order Price Guarantee
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.jobs,Careers
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fselling-services%2Fbenefits.htm%3Fld%3DAZUSVAS-globalfooter&source=standards&token=C11D6CD96DB34C590F5368F18106AAC385ECAAC6,Sell Your Services on Amazon
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://services.amazon.com/amazon-business.html?ld=usb2bunifooter,Sell on Amazon Business
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://developer.amazon.com,Sell Your Apps on Amazon
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://affiliate-program.amazon.com/,Become an Affiliate
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,https://advertising.amazon.com/?ref=ext_amzn_ftr,Advertise Your Products
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/seller-account/mm-summary-page.html?ie=UTF8&ld=AZFooterSelfPublish&topic=200260520,Self-Publish with Us
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://blog.aboutamazon.com/?utm_source=gateway&utm_medium=footer,Blog
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer,About Amazon
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com/pr,Press Center
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com/ir,Investor Relations
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/amazon-devices/b?ie=UTF8&node=2102313011,Amazon Devices
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fcontent%2Fsell-on-amazon.htm%2Fref%3Dfooter_soa%3Fld%3DAZFSSOA&source=standards&token=6D14D9F0E8CC2831C68BA56C95FCDC34988C3979,Sell on Amazon
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b/?_encoding=UTF8&ld=AZUSSOA-seeall&node=13605942011,See all
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/iss/credit/rewardscardmember?_encoding=UTF8&plattr=CBFOOT,Amazon Rewards Visa Signature Cards
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/iss/credit/storecardmember?_encoding=UTF8&plattr=PLCCFOOT,Amazon.com Store Card
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/dp/B07984JN3L?_encoding=UTF8&ie=UTF-8&plattr=ACOMFO,Amazon Business Card
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/dp/B07CBJQS16?_encoding=UTF8&ie=UTF-8&place=camp&plattr=CCLFOOT&pr=ibprox,Amazon.com Corporate Credit Line
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/b?ie=UTF8&node=16218619011,Shop with Points
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com/l/ref=map_1_b2b_GW_FT?node=17882322011,Sell Under Private Brands
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fhandmade%2Fhandmade.html%3Fld%3DAZUSHNDFooter&source=standards&token=0DB36349EAB72B987928A46EC862BDF86C9039B4,Sell on Amazon Handmade
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&location=https%3A%2F%2Fservices.amazon.com%2Fselling-services%2Fbenefits.htm%3Fld%3DAZUSVAS-globalfooter&source=standards&token=C11D6CD96DB34C590F5368F18106AAC385ECAAC6,Sell Your Services on Amazon
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://services.amazon.com/amazon-business.html?ld=usb2bunifooter,Sell on Amazon Business
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://developer.amazon.com,Sell Your Apps on Amazon
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://affiliate-program.amazon.com/,Become an Affiliate
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/compare-credit-card-offers/b?ie=UTF8&node=3561432011,Credit Card Marketplace
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Reload-Your-Gift-Card-Balance/b?ie=UTF8&node=10232440011,Reload Your Balance
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/Currency-Converter/b?ie=UTF8&node=388305011,Amazon Currency Converter
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/css/homepage.html,Your Account
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/css/order-history,Your Orders
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/help/customer/display.html?ie=UTF8&nodeId=468520,Shipping Rates & Policies
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,https://advertising.amazon.com/?ref=ext_amzn_ftr,Advertise Your Products
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/seller-account/mm-summary-page.html?ie=UTF8&ld=AZFooterSelfPublish&topic=200260520,Self-Publish with Us
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b/?_encoding=UTF8&ld=AZUSSOA-seeall&node=13605942011,See all
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/iss/credit/rewardscardmember?_encoding=UTF8&plattr=CBFOOT,Amazon Rewards Visa Signature Cards
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/iss/credit/storecardmember?_encoding=UTF8&plattr=PLCCFOOT,Amazon.com Store Card
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/dp/B07984JN3L?_encoding=UTF8&ie=UTF-8&plattr=ACOMFO,Amazon Business Card
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/prime,Amazon Prime
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/css/returns/homepage.html,Returns & Replacements
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/digital/fiona/manage,Manage Your Content and Devices
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/BIT/ref=footer_bit_v2_us_A0029?bitCampaignCode=A0029,Amazon Assistant
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/help/customer/display.html?ie=UTF8&nodeId=508510,Help
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/help/customer/display.html?ie=UTF8&nodeId=508088,Conditions of Use
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/dp/B07CBJQS16?_encoding=UTF8&ie=UTF-8&place=camp&plattr=CCLFOOT&pr=ibprox,Amazon.com Corporate Credit Line
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/b?ie=UTF8&node=16218619011,Shop with Points
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/compare-credit-card-offers/b?ie=UTF8&node=3561432011,Credit Card Marketplace
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Reload-Your-Gift-Card-Balance/b?ie=UTF8&node=10232440011,Reload Your Balance
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/Currency-Converter/b?ie=UTF8&node=388305011,Amazon Currency Converter
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/css/homepage.html,Your Account
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/gp/help/customer/display.html?ie=UTF8&nodeId=468496,Privacy Notice
+<200 https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155>,/interestbasedads/ref=footer_iba,Interest-Based Ads
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/css/order-history,Your Orders
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/help/customer/display.html?ie=UTF8&nodeId=468520,Shipping Rates & Policies
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/prime,Amazon Prime
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/css/returns/homepage.html,Returns & Replacements
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/digital/fiona/manage,Manage Your Content and Devices
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/BIT/ref=footer_bit_v2_us_A0029?bitCampaignCode=A0029,Amazon Assistant
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/help/customer/display.html?ie=UTF8&nodeId=508510,Help
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/help/customer/display.html?ie=UTF8&nodeId=508088,Conditions of Use
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/gp/help/customer/display.html?ie=UTF8&nodeId=468496,Privacy Notice
+<200 https://www.amazon.com/movies-tv-dvd-bluray/b?ie=UTF8&node=2625373011>,/interestbasedads/ref=footer_iba,Interest-Based Ads
