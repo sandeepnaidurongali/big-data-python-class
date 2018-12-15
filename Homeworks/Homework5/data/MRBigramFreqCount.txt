@@ -1,0 +1,10 @@
+["''all", "my"]	1
+["''among", "the"]	1
+["''and", "lo"]	1
+["''but", "o"]	1
+["''how", "mighty"]	1
+["''lo", "all"]	1
+["''lo", "this"]	1
+["''look", "here"]	1
+["''my", "parts"]	1
+["''now", "all"]	1
