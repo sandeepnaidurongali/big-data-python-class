@@ -1,0 +1,9 @@
+This module provides regular expression matching operations similar to
+    those found in Perl.  It supports both 8-bit and Unicode strings; both
+    the pattern and the strings being processed can contain null bytes and
+    characters outside the US ASCII range.
+    
+    Regular expressions can contain both special and ordinary characters.
+    Most ordinary characters, like "A", "a", or "0", are the simplest
+    regular expressions; they simply match themselves.  You can
+    concatenate ordinary characters, so last matches the string 'last'.
